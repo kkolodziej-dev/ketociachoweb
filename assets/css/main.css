@@ -2530,6 +2530,10 @@ input, select, textarea {
 			font-weight: 900;
 		}
 
+		.feature.solid.fa-check:before {
+			color:rgb(25, 184, 25);
+		}
+
 		.feature.brands:before {
 			font-family: 'Font Awesome 5 Brands';
 		}
